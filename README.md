@@ -1,4 +1,4 @@
-# Hi, I’m Evan Maus 👋
+# Hi, I’m Evan 👋
 
 I’m a **UC Berkeley student** majoring in **Computer Science** and **Economics**, with a passion for **AI, web development, and data science**. I have hands-on experience through **software internships** and **freelance web development**, focusing on creating impactful solutions.
 
