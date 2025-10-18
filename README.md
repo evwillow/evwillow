@@ -55,4 +55,14 @@ built lead tracker with Apps Script and structured contract pipeline.
 ---
 
 ### Leadership
-- **Founder & President**, Student Climate Action Team (~10 events, 10 000 households rea
+- **Founder & President**, Student Climate Action Team (~10 events, 10 000 households reached)  
+- **Eagle Scout**, Schultz Elementary Environmental Project  
+- **Member**, Berkeley CSA & Undergraduate Economics Association  
+
+---
+
+### Contact
+**Website:** [evwillow.com](https://evwillow.com)  
+**LinkedIn:** [linkedin.com/in/evwillow](https://linkedin.com/in/evwillow)  
+**GitHub:** [github.com/evwillow](https://github.com/evwillow)  
+**Email:** evan_maus@berkeley.edu
