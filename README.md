@@ -1,44 +1,58 @@
-# Hi, I’m Evan 👋
+# Evan Maus
 
-I’m a **UC Berkeley student** majoring in **Computer Science** and **Economics**, with a passion for **AI, web development, and data science**. I have hands-on experience through **software internships** and **freelance web development**, focusing on creating impactful solutions.
-
-## Skills
-
-- **Languages**: Python, JavaScript, SQL
-- **Frameworks**: React.js, Next.js, Django, PyTorch
-- **Tools**: Git, JupyterLab, Vim, Visual Studio Code
-
-## Featured Projects
-
-### 1. [Environmental Organization Website](https://github.com/evanmaus/pollinatorPathwaysWebsite)
-- **Tech**: React.js, Next.js, SEO
-- Developed and optimized a website, resulting in a **200-300% increase in traffic**.
-
-### 2. [Self-Solving Maze (Python)](https://github.com/evanmaus/selfSolvingMaze)
-- **Tech**: Python, Algorithms
-- Created a maze-solving algorithm using DFS/BFS.
-
-### 3. [Stock Data & AI Model](https://github.com/evanmaus/stockData)
-- **Tech**: Python, Pandas, PyTorch
-- Automated stock data retrieval and implemented an LSTM model for predictions.
-
-## Experience
-
-- **Intern @ necoTECH**: Automated data collection for federal contracts using Python.
-- **Freelance Web Developer**: Built and optimized websites with React and Next.js.
-
-## Education
-
-**UC Berkeley**  
-Majors: **Computer Science** and **Economics**
-
-### Relevant Courses
-
-- COMPSCI 61A: Structure and Interpretation of Computer Programs
-- COMPSCI 61B: Data Structures
-- MATH 1B: Calculus
-- ECON 2: Intro to Economics
+**UC Berkeley | Economics & Data Science | Minor in Computer Science**  
+Building intelligent systems that connect software, data, and markets.
 
 ---
 
-I’m open to **SWE internship opportunities**—feel free to explore my projects or reach out!
+### About
+I’m a UC Berkeley student working across full-stack engineering, applied ML, and market-data tooling.  
+My focus is on creating real, deployable systems—from quantitative trading tools to production websites and environmental software.
+
+---
+
+### Technical Skills
+**Languages:** Python, Java, C, JavaScript, SQL, HTML/CSS  
+**Frameworks/Libraries:** React, Next.js, FastAPI, pandas, NumPy, PyTorch, TensorFlow, Tailwind, JUnit  
+**Tools:** Docker, GitHub Actions, DigitalOcean, Supabase, PostgreSQL, Linux  
+
+---
+
+### Featured Projects
+
+**Breakout Study Tool** – *(active)*  
+Full-stack web app for studying breakout patterns across ~10 000 tickers.  
+Built with Next.js + TypeScript + Supabase Auth + DigitalOcean; uses pandas/yfinance for data processing.  
+Used daily for pattern analysis.  
+[trade.evwillow.com](https://trade.evwillow.com) *(private)*
+
+**Pollinator Pathways Website**  
+React/Next.js platform for an environmental nonprofit.  
+Improved traffic 200–300% through SEO, performance, and analytics optimizations.  
+[northcentralohiopollinatorpathway.org](https://northcentralohiopollinatorpathway.org)
+
+**Stock Data Pipeline**  
+Python tool to retrieve, clean, and visualize stock data (yfinance + pandas + matplotlib).  
+Exports JSON/CSV for analysis.
+
+**Self-Solving Maze**  
+DFS/BFS path-finding visualizer built in Python for algorithm exploration.
+
+**Cat-vs-Dog Classifier**  
+CNN trained on local GPU (TensorFlow) with optimized batch and VRAM management.
+
+---
+
+### Experience
+**Freelance Full-Stack Developer** (2024–present)  
+Built and deployed 3 client sites using Next.js + TypeScript; integrated analytics APIs and authentication;  
+deployed on Docker + DigitalOcean with GitHub Actions.
+
+**Intern @ necoTECH** (2023)  
+Automated federal contract discovery with Python/pandas, saving 200+ hours;  
+built lead tracker with Apps Script and structured contract pipeline.
+
+---
+
+### Leadership
+- **Founder & President**, Student Climate Action Team (~10 events, 10 000 households rea
