@@ -2,7 +2,7 @@
 UC Berkeley — Economics & Data Science, Dec 2026. I build trading systems, data pipelines, and
 tools that measure what models actually cost.
 ### Building
-- **[Incurra](https://incurra.com)** — AI for commercial-auto claims reconciliation. Reads
+- **[Incurra](https://incurra.ai)** — AI for commercial-auto claims reconciliation. Reads
   adjuster notes on open claims and flags the ones where a documented fact isn't reflected in the
   carried reserve.
 - **[breakouts.trade](https://breakouts.trade)** — a study tool for breakout trading, built on a
